@@ -5,3 +5,7 @@
 🔭 Currently, I'm exploring headless systems using React with CMS platforms like [WordPress](https://wordpress.org/), [Prestashop](https://prestashop.com/), [Shopify](https://www.shopify.com/) and [Laravel](https://laravel.com/).
 
 🌱 I’m currently learning [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/manual/bash.html), [Debian](https://www.debian.org/) and [Arch](https://wiki.archlinux.org/) Linux distro.
+
+🔳 To study as soon as possible: [Ruby](https://www.ruby-lang.org) and [Rust](https://www.rust-lang.org)
+
+
