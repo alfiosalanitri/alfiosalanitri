@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-[I'm a full stack developer](https://www.alfiosalanitri.it/about.html) based in Catania (Sicily). 
+```bash
+$ whoami
+alfio salanitri
 
-🔭 Currently, I'm exploring headless systems using React with CMS platforms like [WordPress](https://wordpress.org/), [Prestashop](https://prestashop.com/), [Shopify](https://www.shopify.com/) and [Laravel](https://laravel.com/).
+$ cat role.txt
+Full-Stack Developer & IT Manager @ Industria01 · Catania, Sicily
 
-🌱 I’m currently learning [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/manual/bash.html), [Debian](https://www.debian.org/) and [Arch](https://wiki.archlinux.org/) Linux distro.
+$ declare -a STACK=("Laravel" "PHP" "Next.js" "React" "Python" "Docker" "Linux" "Bash")
+$ declare -a AI=("AI-Agents" "LLM-Pipelines" "RAG" "Embeddings" "Claude-Code")
+```
 
-🔳 To study as soon as possible: [Ruby](https://www.ruby-lang.org) and [Rust](https://www.rust-lang.org)
+I build **web applications, e-commerce platforms and custom CMS solutions**, mostly with Laravel and PHP,
+and I take care of the servers they run on: Linux (Debian & Arch), Docker, Nginx, Cloudflare and a strong
+focus on **security hardening** 🔐.
 
+🤖 Lately I've been focusing on **AI engineering**: AI agents and LLM pipelines, RAG knowledge bases,
+semantic search and automated reports, built with Claude Code as my daily coding partner.
 
+#### 🛠️ Projects people use
+
+- [**wireguard-client-connection-notification**](https://github.com/alfiosalanitri/wireguard-client-connection-notification): Telegram or Gotify alerts when a WireGuard client connects or disconnects
+- [**server-guardian**](https://github.com/alfiosalanitri/server-guardian): server health monitoring with Telegram alerts
+- [**hetzner-server-manager**](https://github.com/alfiosalanitri/hetzner-server-manager): self-hosted dashboard for Hetzner Cloud servers
+- [**lamp-virtual-host**](https://github.com/alfiosalanitri/lamp-virtual-host): Apache virtual hosts, databases and SSL on Debian/Ubuntu in one script
+
+📫 More about me on [alfiosalanitri.it](https://www.alfiosalanitri.it/about) · [LinkedIn](https://www.linkedin.com/in/alfiosalanitri)
